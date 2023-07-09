@@ -1,0 +1,8 @@
+Step 1
+# Install the dlib library(you can see these in youtube how to install it)
+
+Step 2
+# shape_predictor_68_face_landmarks.dat 
+Use these to import the pre-trained images model where thousand of images are trained init or if you want to train your own model you can use (makesense.ai) to draw 
+the bounding box with more than a thousand images in Yolo format or in any other format you are comfortable with to train the model.
+
